@@ -1,1 +1,12 @@
 
+{
+  "version": "2026.1",
+  "fonts": [
+    { "file": "fonts/1.ttf",  "name": "字体1" },
+    { "file": "fonts/2.ttf",  "name": "字体2" }
+  ],
+  "images": [
+    { "file": "images/chunjie.png",  "names": ["春节"] },
+    { "file": "images/zhongqiu.png", "names": ["中秋节"] }
+  ]
+}
