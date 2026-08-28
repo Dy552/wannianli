@@ -1,9 +1,11 @@
 {
-  "version": "2026.1",
+  "version": "2026.2",
   "fonts": [
     { "file": "fonts/15.ttf", "name": "字体15" }
   ],
   "images": [
-    { "file": "images/ic_chufu_out.png", "names": ["出伏"] }
+    { "file": "images/chufu_out.png", "names": ["出伏"] }
+    { "file": "images/doctor.jpg", "names": ["医师节"] }
+    
   ]
 }
