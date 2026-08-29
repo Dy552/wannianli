@@ -5,7 +5,7 @@
   ],
   "images": [
     { "file": "images/chufu_out.png", "names": ["出伏"] },
-    { "file": "images/doctor.jpg", "names": ["医师节"] }
+    { "file": "images/doctor.png", "names": ["医师节"] }
     
   ]
 }
